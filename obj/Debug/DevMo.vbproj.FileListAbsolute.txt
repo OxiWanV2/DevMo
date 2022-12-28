@@ -1,0 +1,14 @@
+D:\repos\DevMo\bin\Debug\DevMo.exe.config
+D:\repos\DevMo\bin\Debug\DevMo.exe
+D:\repos\DevMo\bin\Debug\DevMo.pdb
+D:\repos\DevMo\bin\Debug\DevMo.xml
+D:\repos\DevMo\obj\Debug\DevMo.vbproj.AssemblyReference.cache
+D:\repos\DevMo\obj\Debug\DevMo.vbproj.SuggestedBindingRedirects.cache
+D:\repos\DevMo\obj\Debug\DevMo.Form1.resources
+D:\repos\DevMo\obj\Debug\DevMo.Resources.resources
+D:\repos\DevMo\obj\Debug\DevMo.vbproj.GenerateResource.cache
+D:\repos\DevMo\obj\Debug\DevMo.vbproj.CoreCompileInputs.cache
+D:\repos\DevMo\obj\Debug\DevMo.exe
+D:\repos\DevMo\obj\Debug\DevMo.xml
+D:\repos\DevMo\obj\Debug\DevMo.pdb
+D:\repos\DevMo\obj\Debug\DevMo.Form2.resources
